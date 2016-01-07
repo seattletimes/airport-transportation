@@ -19,6 +19,11 @@ h2 {
   color: #28575d;
 }
 
+a {
+  color: lighten(#28575d, 20%);
+  font-weight: bold;
+}
+
 .fa {
   padding: 0 2px;
   color: #DD492D;
@@ -43,6 +48,15 @@ h2 {
   .flex(0 0 340px);
   font-size: 17px;
   padding-right: 20px;
+
+  .title {
+    font-weight: bold;
+    font-size: 22px;
+    color: darken(#DD492D, 20%);
+  }
+  .text {
+    font-size: 16px;
+  }
 }
 
 .image {
@@ -68,7 +82,7 @@ h2 {
   }
 }
 
-.st-group:hover {
+.st-group:hover, .st-group.selected {
   .st-circle {
     fill: darken(#DD492D, 20%);
   }
