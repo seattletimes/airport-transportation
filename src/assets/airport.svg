@@ -3,9 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1277.5px" height="788.4px" viewBox="0 0 1277.5 788.4" style="enable-background:new 0 0 1277.5 788.4;"
-	 xml:space="preserve">
+	 xml:space="preserve" preserveAspectRatio="xMinYMin meet">
 
-<g id="Background" transform="translate(0 -125)">
+<g id="Background">
 	
 	<g class="st-group">
 		<circle class="st-circle" cx="982" cy="533.7" r="16.5"/>
