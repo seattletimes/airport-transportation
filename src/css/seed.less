@@ -1,0 +1,44 @@
+@import "seattletimes";
+
+body {
+  max-width: 960px;
+}
+
+.image {
+  position: relative;
+
+  .background, .overlay {
+    position: absolute;
+    width: 100%;
+
+    svg {
+      width: 100%;
+    }
+  }
+}
+
+.st-group:hover {
+  .st-circle {
+    fill: darken(#DD492D, 20%);
+  }
+  .st-plus {
+    fill: darken(#F6CDBA, 20%);
+  }
+  .st-overlay {
+    opacity: 0.5;
+  }
+}
+
+.st-circle {
+  fill: #DD492D;
+  cursor: pointer;
+}
+.st-plus {
+  fill: #F6CDBA;
+  cursor: pointer;
+}
+.st-overlay {
+  fill: #000000;
+  opacity: 0;
+  cursor: pointer;
+}
