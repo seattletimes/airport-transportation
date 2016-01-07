@@ -11,13 +11,13 @@
     "Title": "Taxi!",
     "Text": "<p>If you want to leave your car at home, and have been unsuccessful at bribing someone to take you, you’re at the mercy of taxis and hire cars. All Seattle cabs charge the same metered rate, set by the city, of $2.70/mile, plus pickup charge and time charge for traffic delays. Many companies (among them <a href=\"http://www.seattleyellowcab.com/\">Yellow Cab</a>, <a href=\"http://www.orangecab.net/\">Orange Cab </a>and <a href=\"http://www.seattle-taxiservice.com/\">Farwest</a>) charge a flat rate of $40 from the downtown core. (Remember to double this, to account for the trip home, if you’re comparing with airport parking rates.)</p>"
   },
-  "Car share": {
+  "Carshare": {
     "Text": "<p>Chances are that you already have strong feelings about transportation-network companies such as <a href=\"https://www.uber.com/cities/seattle\">Uber</a> and <a href=\"https://www.lyft.com/cities/seattle\">Lyft</a>, which have soared in popularity in the past few years. They can be a bargain, though potentially spendy when surge pricing is in effect. Note, too, for your round-trip, that TNC vehicles can’t legally pick up passengers at Sea-Tac (though there are ways to get around that rule). Negotiations, according to the Port of Seattle, are currently under way to potentially change that situation.  </p>"
   },
   "Express": {
     "Text": "<p>Another option: ride-sharing vans such as <a href=\"http://shuttleexpress.com/seattle-seatac-airport-transportation/\">Shuttle Express</a>, which offer the trade-off of a convenient pickup and generally lower fares than taxis, but possibly a longer travel time (as you’re sharing the ride with others who’ll need to be picked up). </p><p>Here’s a one-way price comparison, from three randomly chosen B locations — Beacon Hill, Ballard and northeast Bellevue. Estimates (from destination to Sea-Tac, for comparative purposes only) are approximate; tips not included.</p><p>Beacon Hill: taxi $39, Uber $26-35 (for UberX, the lowest-price version), Lyft $24, Shuttle Express $43.</p><p>Ballard: taxi $56, Uber $35-46, Lyft $35, Shuttle Express $41. </p>\n\n<p>Bellevue: taxi $63, Uber $40-53, Lyft $39, Shuttle Express $43. </p>"
   },
-  "Light Rail": {
+  "Train": {
     "Title": "Take public transit",
     "Text": "<p>Definitely the cheapest option for getting to Sea-Tac is  Sound Transit light rail, which runs between the airport and Westlake Center downtown (about a 38-minute trip) from 5 a.m. through 1 a.m. Monday through Saturday and 6 a.m. to midnight Sundays and holidays. It makes 11 stops in downtown and South Seattle locations and runs at least every 15 minutes, often more frequently. Adult fares are $2.25 to $3 (you can use your ORCA card), depending on where you board. There’s a bit of a walk once you get there — approximately 10 to 15 minutes, via covered outdoor walkway, to the airport from the station — so this may not be the best option for those with lots of luggage. Wheelchair service is available at the airport but must be arranged in advance (206-396-5275). </p>"
   },
